@@ -1,0 +1,3 @@
+SFC com erro de "windows resource protection could not start the repair"
+
+sfc /scannow /offbootdir=E: /offwindir=E:\windows
